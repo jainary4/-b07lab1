@@ -1,1 +1,9 @@
-
+This is the info file for CSCB07 lab 1 
+the project involves creating a polynomial class that has an object of polynomial type 
+The object is represented by a double array of coeffiecients 
+In the class we create a number of functions to manipulate the polynomials
+we create 2 constructors one of which is the default constructor that sets a polynomial oto zero the second constructor 
+sets the polynomial equal to the input double array
+The other functions in the class are : ADD- adds 2 polynomials and returns a polynomial;
+Evaluate- returns a double value of the polynomial for a given input
+The last function is has root that verifies is the given input a root of the polynomial and returns a boolean type value. 
