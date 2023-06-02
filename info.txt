@@ -1,0 +1,1 @@
+We first create a class called polynomial and within it we create a variable of type a double array named polynomial. 
